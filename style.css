@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+
+.slider-save {
+    height: 600px;
+}
+
+body {
+    padding-top: 50px;
+    font-family: 'Raleway';
+}
+
+.line {
+    border: none;
+    border-top: 3px solid #343a40;
+    ;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.about {
+    background-color: #f2f2f2;
+}
+
+.icon {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    border: 10px solid #f2f2f2;
+    font-size: 40px;
+    background-color: #f2f2f2;
+}
+
+.ekip {
+    background-color: white;
+}
+
+.icon-2 {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    border: 10px solid white;
+    font-size: 40px;
+    background-color: white;
+}
+
+.image-card:hover {
+    cursor: pointer;
+    opacity: 0.7;
+    transform: scale(1.1);
+    transition: 1s ease;
+
+}
+
+.album {
+    background-color: #f2f2f2;
+}
+
+.icon-3 {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    border: 10px solid #f2f2f2;
+    font-size: 40px;
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.7;
+}
+
+
+.contact{
+    background-color: white;
+  
+}
+
+
+.icon-4{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    border: 10px solid white;
+    font-size: 40px;
+    background-color: white;
+}
+
